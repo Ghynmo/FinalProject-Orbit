@@ -1,0 +1,6 @@
+flask
+werkzeug
+gevent
+keras
+numpy
+tensorflow

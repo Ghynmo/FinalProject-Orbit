@@ -3,4 +3,3 @@ werkzeug
 gevent
 keras
 numpy
-tensorflow

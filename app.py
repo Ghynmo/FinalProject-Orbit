@@ -4,7 +4,7 @@ from werkzeug.utils import secure_filename
 from gevent.pywsgi import WSGIServer
 from keras.models import load_model
 import numpy as np
-from tensorflow.keras import utils
+from keras import utils
 
 
 app = Flask(__name__)
